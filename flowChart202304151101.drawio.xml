@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T09:01:46.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aaijnc5lWLtEb2rSJ3Iu" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T20:20:48.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tTqcWJ0XxHw7leQb7GCF" version="21.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="22" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4gbIDqCxuKL6dfZTQ6Z5-3" value="Da li ustanova (privatna praksa) ima više od jednog centara za lečenje" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1">
+        <mxCell id="4gbIDqCxuKL6dfZTQ6Z5-3" value="Da li ustanova (privatna praksa) ima više od jednog centara za lečenje?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1">
           <mxGeometry width="186.20689655172413" height="92.30769230769229" as="geometry" />
         </mxCell>
         <mxCell id="3jdKR207nDAL8vhKkdTr-11" value="" style="group" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1" connectable="0">
@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3jdKR207nDAL8vhKkdTr-18" value="Da li je drugi centar za lečenje unutar iste ustanove dostavio popunjenu prijavu" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1">
+        <mxCell id="3jdKR207nDAL8vhKkdTr-18" value="Da li je drugi centar za lečenje unutar iste ustanove dostavio popunjenu prijavu?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1">
           <mxGeometry y="129.00000000000006" width="186.20689655172413" height="92.30769230769229" as="geometry" />
         </mxCell>
         <mxCell id="3jdKR207nDAL8vhKkdTr-28" value="Popunjava se prijava." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="4gbIDqCxuKL6dfZTQ6Z5-20" vertex="1">
@@ -68,7 +68,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4gbIDqCxuKL6dfZTQ6Z5-25" value="Da li je uzrok problematična upotreba alkohola i ostalih supstanci (ne uključuje duvan) ili problem kockanja&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="u4xdDcbToD71O5qjx2HN-2" vertex="1">
+        <mxCell id="4gbIDqCxuKL6dfZTQ6Z5-25" value="Da li je uzrok problematična upotreba alkohola i ostalih supstanci (ne uključuje duvan) ili problem kockanja?&amp;nbsp;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="u4xdDcbToD71O5qjx2HN-2" vertex="1">
           <mxGeometry width="186.20689655172413" height="94.48471709700952" as="geometry" />
         </mxCell>
         <mxCell id="3jdKR207nDAL8vhKkdTr-7" value="Ne popunjava se prijava." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="u4xdDcbToD71O5qjx2HN-2" vertex="1">
